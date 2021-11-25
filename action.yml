@@ -1,5 +1,5 @@
 name: "retag action"
-description: "retag action test"
+description: "retag action test (lol)"
 runs:
     using: "docker"
     image: "Dockerfile"
