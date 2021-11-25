@@ -1,0 +1,5 @@
+name: "retag action"
+description: "retag action test"
+runs:
+    using: "docker"
+    image: "Dockerfile"
